@@ -8,7 +8,7 @@
 ### 🔹 Technical Skills:
 - **Languages:** Python, C, SQL, HTML, CSS, JavaScript
 - **Frameworks & Tools:** React, Git, Eclipse, Netlify
-- 
+
 ### 🔹 Connect with Me:
 - 📫 [LinkedIn](https://www.linkedin.com/in/sairamyagurram/)
 - 🌐 [Portfolio](https://ramyagurram-portfolio.netlify.app/)
